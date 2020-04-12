@@ -295,8 +295,8 @@
 
 - hosts: localhost
   vars:
-    aws_access_key: "AKIAY6NCWZ33UIMZDI6G"
-    aws_secret_key: "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"
+    aws_access_key: ""
+    aws_secret_key: ""
     application: httpd
     machine_counts: 3
     region: us-west-1
